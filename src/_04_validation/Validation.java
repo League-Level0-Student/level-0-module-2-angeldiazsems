@@ -17,8 +17,25 @@ public class Validation {
 		System.out.println(randomNumber);
 
 		// 1. Use each value of randomNumber to give the user a random compliment.
+		
+		
 
-		// 2. Repeat all the code above 10 times
+		
+		if (randomNumber  == 0) {
+		
+		JOptionPane.showMessageDialog(null, "u look good");
+		}
+		
+		else if (randomNumber == 1) {
+		JOptionPane.showMessageDialog(null, "you look extra good");
+		}
+		
+		
+		
+		
+		
+		
+			// 2. Repeat all the code above 10 times
 		
 		// 3. Find someone to test out your program. They will like it :)
 	}
