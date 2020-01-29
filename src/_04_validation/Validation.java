@@ -23,7 +23,7 @@ public class Validation {
 		
 		if (randomNumber  == 0) {
 		
-		JOptionPane.showMessageDialog(null, "u look good");
+		JOptionPane.showMessageDialog(null, "you look good");
 		}
 		
 		else if (randomNumber == 1) {
@@ -32,9 +32,30 @@ public class Validation {
 		
 		
 		
+
+		else if (randomNumber == 2) {
+		JOptionPane.showMessageDialog(null, "you look goodx2");
+		}
+		
+		
+		else if (randomNumber == 3) {
+			JOptionPane.showMessageDialog(null, "you look goodx3");
+			}
 		
 		
 		
+
+		
+		else if (randomNumber == 4) {
+			JOptionPane.showMessageDialog(null, "you look goodx4");
+			}
+		
+		
+		
+		
+		else if (randomNumber == 5) {
+			JOptionPane.showMessageDialog(null, "you look goodx5");
+			}
 			// 2. Repeat all the code above 10 times
 		
 		// 3. Find someone to test out your program. They will like it :)
